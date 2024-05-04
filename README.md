@@ -49,8 +49,5 @@
    <p>Este projeto é distribuído sob a licença <a href="https://opensource.org/licenses/MIT">MIT</a>. Você é livre para usar,
         modificar e distribuir o ebook de acordo com os termos desta licença.</p>
 
-   <hr>
 
-  <p>Espero que este modelo te ajude a criar o seu README para o projeto do EbookIA sobre structs em C! Se precisar de mais
-        alguma coisa, estou à disposição para ajudar.</p>
 
