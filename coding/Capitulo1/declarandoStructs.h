@@ -5,7 +5,7 @@ struct Aluno
     int Idade;
 };
 
-//Declara??o tradicional
+//Declaração tradicional
 struct Produto
 {
     char Nome[100];
@@ -13,7 +13,7 @@ struct Produto
     float Preco;
 };
 
-//Declara??o de tipo definido pelo usu?rio
+//Declaração de tipo definido pelo usu?rio
 typedef struct
 {
     char Marca[100];
@@ -21,7 +21,7 @@ typedef struct
     int Ano;
 }Carro;
 
-//Inicializa??o ao mesmo tempo
+//Inicialização ao mesmo tempo
 struct Pessoa 
 {
     char nome[50];
